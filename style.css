@@ -374,7 +374,7 @@
                 
                 @media only Screen and (max-width: 600px) {
                     #header {
-                        background-image: url(image/myC.jpg);
+                        background-image: url(image/myC.png);
                     }
                     .header-text {
                         margin-top: 100%;
